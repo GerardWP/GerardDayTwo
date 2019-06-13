@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+header {
+background: #2e7ec3;
+color: #fff;
+text-align: center;
+}
+
+h1 {
+margin: 0;
+padding: 15px;
+}
+
+.content {
+text-align: center;
+width: 600px;
+max-width: 97%;
+margin: 30px auto;
+padding: 25px;
+}
+
+footer {
+background: #ccc;
+color: #fff;
+padding: 15px;
+margin-top: auto;
+}
+
+.footer-content {
+text-align: center;
+width: 600px;
+max-width: 97%;
+margin: 0 auto;
+}
+
+ul {
+list-style: none;
+line-height: 2em;
+padding-left: 0;
+}
+
+#portfolio {
+padding: 10px 40px;
+background: #f1a400;
+color: #fff;
+border-radius: 10px;
+}
